@@ -1,16 +1,15 @@
-### Hi there 👋
+나의 이름은 **배승은** 입니다. 😁
+저는 3학년에 재학중인 학생입니다. 💙
+나의 취미
 
+- 게임하기 🎮
+-산책 🚶
+-노래듣기 🎹
+-자전거타기 🚴
 
-**seungeun1213/seungeun1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+나의 워너비 자격증
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+| 자격증 이름| 취득일(목표) |
+|--|--|
+|ITQ|2022년|
+|웹디자인 기능사|2023|
